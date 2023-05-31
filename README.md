@@ -19,7 +19,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A MERN application is a type of web application that follows the MERN stack, which is an acronym for MongoDB, Express.js, React, and Node.js. Each component of the stack plays a specific role in the application's development and functionality:Overall, MERN applications are known for their ability to deliver efficient and responsive web applications with a smooth user experience, thanks to the combination of MongoDB's flexibility, Express.js' powerful server-side capabilities, React's interactive UI components, and Node.js' efficient runtime environment..
     <br> 
 </p>
 
