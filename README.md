@@ -35,7 +35,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+The purpose of an ecommerce project is to establish an online platform that enables the buying and selling of products or services over the internet. It aims to provide a convenient and accessible way for businesses to reach a broader customer base and for consumers to shop from the comfort of their own homes. By implementing an ecommerce solution, businesses can expand their reach beyond physical locations and tap into the global market
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
